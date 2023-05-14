@@ -5,7 +5,7 @@
 
 ### **Description**
 
-The aim of the  Kaggle competition project [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction/overview) is to develop a machine learning model that can accurately identify the phrases within a tweet that support a particular sentiment label **(positive, negative, or neutral)**. The dataset contains tweets and their corresponding sentiment labels, and participants are tasked with predicting the support phrases for the sentiment labels. The competition is designed to help advance natural language processing and sentiment analysis techniques.
+The aim of the  Kaggle competition project [Tweet Sentiment Extraction](https://www.kaggle.com/competitions/tweet-sentiment-extraction/overview) is to develop a machine learning model that can accurately identify the phrases within a tweet that support a particular sentiment label **(Positive, Negative, or Neutral)**. The dataset contains tweets and their corresponding sentiment labels, and participants are tasked with predicting the support phrases for the sentiment labels. The competition is designed to help advance natural language processing and sentiment analysis techniques.
 
 
 ### Data
